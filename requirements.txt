@@ -1,0 +1,6 @@
+Flask
+Flask_SocketIO
+socketIO_client
+flask-cors
+squareup
+bleak
