@@ -1,6 +1,6 @@
 # Working HR Zone payments #
 
-Bamifying and financially incentivising clients to stay in HR zones Using a Polar HR monitor and square payments API
+Gamifying and financially incentivising clients to stay in HR zones Using a Polar HR monitor and square payments API
 
 ### Hardware Used ###
 * Polar H10
